@@ -5,6 +5,7 @@
 # author:Elliot
 
 __author__ = 'Elliot'
+__author__ = 'Elliot'
 
 import datetime  # 系统优先，其次第三方库，最后自定义
                  # 注释后面要有1个空格，注释前2个空格
