@@ -39,7 +39,7 @@ print(users)
 num1 = random.randint(1,10)
 num2 = random.randint(1,10)
 
-#此处不应该答应出来
+#此处不应该打印出来
 # print(f'电脑随机选数:{num1},{num2}')
 
 user1_guess = input(f'{user1} guess:')
@@ -50,6 +50,7 @@ print(user1_sum,user2_sum)
 
 if abs(user1_sum-21) > abs(user2_sum):
     print(f'{user1_sum}',f'{user2_sum}')
+
     print(f'{user2} win!')
 else:
     print(f'{user1} win!')
