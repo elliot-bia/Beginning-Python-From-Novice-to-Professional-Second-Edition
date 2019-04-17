@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # Homework_03_51memo.py
 # A memo 51备忘录
-# author: Elliot
+# __author: Elliot__
 
 #   颜色格式说明
 #   格式：\033[显示方式;前景色;背景色m
